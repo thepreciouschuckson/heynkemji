@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archive — heyNkemji</title>
+<meta name="description" content="Every entry, grouped by year.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,500;0,600;1,300;1,400&family=Work+Sans:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__top wrap">
+    <a href="index.html" class="wordmark">hey<em>Nkemji</em></a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <nav class="site-nav" id="site-nav">
+    <div class="wrap" style="display:flex; gap:2rem; flex-wrap:wrap;">
+      <a href="index.html">Journal</a>
+      <a href="archive.html" aria-current="page">Archive</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Say hello</a>
+    </div>
+  </nav>
+</header>
+
+<section class="intro wrap">
+  <span class="intro__eyebrow">Everything, in order</span>
+  <p class="intro__statement">The full archive.</p>
+</section>
+
+<main class="wrap">
+  <div class="archive-year">
+    <h2>2026</h2>
+    <div class="archive-row">
+      <a href="post-2.html">Picking up writing again</a>
+      <span class="archive-date">20 Aug</span>
+    </div>
+    <div class="archive-row">
+      <a href="post.html">Notes on becoming a product manager</a>
+      <span class="archive-date">14 Aug</span>
+    </div>
+    <div class="archive-row archive-row--draft">
+      <span>What freelance taught me that no course could</span>
+      <span class="archive-date">Draft</span>
+    </div>
+  </div>
+
+  <!--
+    New year section — copy this whole block when you write your first
+    2027 entry, and delete the placeholder row below once it's real.
+  <div class="archive-year">
+    <h2>2027</h2>
+    <div class="archive-row">
+      <a href="post-3.html">Post title</a>
+      <span class="archive-date">DD Mon</span>
+    </div>
+  </div>
+  -->
+</main>
+
+<footer class="site-footer wrap">
+  <p>heyNkemji — notes on product, design, and building things from wherever I am.</p>
+  <p class="footer-meta">Lagos ⇄ Accra · © <span id="year"></span></p>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

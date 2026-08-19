@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>heyNkemji — journal</title>
+<meta name="description" content="Notes on product, freelance work, and building things — written by Nkemji.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,500;0,600;1,300;1,400&family=Work+Sans:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__top wrap">
+    <a href="index.html" class="wordmark">hey<em>Nkemji</em></a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <nav class="site-nav" id="site-nav">
+    <div class="wrap" style="display:flex; gap:2rem; flex-wrap:wrap;">
+      <a href="index.html" aria-current="page">Journal</a>
+      <a href="archive.html">Archive</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Say hello</a>
+    </div>
+  </nav>
+</header>
+
+<section class="intro wrap">
+  <span class="intro__eyebrow">Volume one, still writing it</span>
+  <p class="intro__statement">
+    A journal for <strong>anything and everything</strong> — I write here to keep the habit alive, not to stay on one subject.
+  </p>
+  <p class="intro__sub">
+    Some entries are about product and freelance work, some aren't about work at all. No fixed beat — just whatever's worth writing down that week.
+  </p>
+</section>
+
+<main class="wrap">
+  <div class="entries">
+
+    <article class="entry">
+      <div class="entry__meta">
+        <time datetime="2026-08-20">20 Aug 2026</time>
+        <span class="tag">Life</span>
+      </div>
+      <div>
+        <h2 class="entry__title"><a href="post-2.html">Picking up writing again</a></h2>
+        <p class="entry__excerpt">Why this journal exists, what it's for, and why it isn't going to stay on one topic.</p>
+        <a class="entry__read" href="post-2.html">Read entry</a>
+      </div>
+    </article>
+
+    <article class="entry">
+      <div class="entry__meta">
+        <time datetime="2026-08-14">14 Aug 2026</time>
+        <span class="tag">Product</span>
+      </div>
+      <div>
+        <h2 class="entry__title"><a href="post.html">Notes on becoming a product manager</a></h2>
+        <p class="entry__excerpt">Nobody hands you a title and a finished playbook at the same time. Some things I've had to work out by getting them wrong first.</p>
+        <a class="entry__read" href="post.html">Read entry</a>
+      </div>
+    </article>
+
+    <article class="entry entry--draft">
+      <div class="entry__meta">
+        <span class="tag">Draft</span>
+      </div>
+      <div>
+        <h2 class="entry__title"><span>What freelance taught me that no course could</span></h2>
+        <p class="entry__excerpt">Not written yet — sitting in the queue. See the notes below for how to turn ideas like this into a real entry.</p>
+      </div>
+    </article>
+
+  </div>
+</main>
+
+<footer class="site-footer wrap">
+  <p>heyNkemji — notes on product, design, and building things from wherever I am.</p>
+  <p class="footer-meta">Lagos ⇄ Accra · © <span id="year"></span></p>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>
