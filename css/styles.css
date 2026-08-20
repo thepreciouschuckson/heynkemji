@@ -154,7 +154,8 @@ body::before {
 
 /* -------------------- hero / intro -------------------- */
 .intro {
-  padding: 4.5rem 0 3.5rem;
+  padding-top: 4.5rem;
+  padding-bottom: 3.5rem;
   border-bottom: 1px solid var(--line);
 }
 .intro__eyebrow {
@@ -281,7 +282,8 @@ body::before {
   display: grid;
   grid-template-columns: 220px 1fr;
   gap: 3rem;
-  padding: 4rem 0;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   border-bottom: 1px solid var(--line);
   align-items: start;
 }
@@ -293,12 +295,8 @@ body::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--ink-faint);
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-align: center;
-  padding: 1rem;
+  object-fit: cover;
+  filter: grayscale(100%) contrast(1.5);
 }
 .about-hero h1 {
   font-family: var(--font-display);
@@ -311,7 +309,8 @@ body::before {
 .about-hero p { margin-top: 1.25rem; color: var(--ink-dim); max-width: 56ch; }
 
 .about-list {
-  padding: 3.5rem 0;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
   border-bottom: 1px solid var(--line);
 }
 .about-list h2 {
@@ -347,7 +346,8 @@ body::before {
 
 /* -------------------- contact page -------------------- */
 .contact-hero {
-  padding: 4.5rem 0 3rem;
+  padding-top: 4.5rem;
+  padding-bottom: 3rem;
   border-bottom: 1px solid var(--line);
 }
 .contact-hero h1 {
@@ -391,7 +391,8 @@ body::before {
 
 /* -------------------- single post -------------------- */
 .post-header {
-  padding: 4rem 0 2.5rem;
+  padding-top: 4rem;
+  padding-bottom: 2.5rem;
   border-bottom: 1px solid var(--line);
 }
 .post-header .entry__meta {
@@ -419,7 +420,8 @@ body::before {
   display: grid;
   grid-template-columns: 96px 1fr;
   gap: 2rem;
-  padding: 3rem 0;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 .post-body__gutter {
   font-family: var(--font-mono);
@@ -464,7 +466,8 @@ body::before {
 
 .post-nav {
   border-top: 1px solid var(--line);
-  padding: 2.5rem 0 3.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 3.5rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
@@ -536,3 +539,28 @@ body::before {
   font-size: 1.1rem;
   color: var(--ink-dim);
 }
+
+/* -------------------- comments (Cusdis) -------------------- */
+.comments {
+  border-top: 1px solid var(--line);
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+}
+.comments__heading {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 1.75rem;
+}
+/* Cusdis renders its own iframe; wrapping it in a bordered box with
+   padding gives it the same card treatment as the rest of the site */
+#cusdis_thread {
+  max-width: 66ch;
+  padding: 1.5rem;
+  background: var(--bg-alt);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+}
+#cusdis_thread iframe { min-height: 400px; }
