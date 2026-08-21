@@ -65,7 +65,7 @@ body::before {
   outline-offset: 3px;
 }
 
-.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 1.5rem; }
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 1.5rem; }
 .wrap--wide { max-width: var(--wrap-wide); }
 
 /* -------------------- links with a hand-drawn underline -------------------- */
