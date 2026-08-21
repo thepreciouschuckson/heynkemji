@@ -27,12 +27,6 @@ const ARCHIVE_PATH = path.join(ROOT, "archive.html");
 
 const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 
-// ---------- site config ----------
-// Paste your Cusdis App ID here once you've signed up at cusdis.com.
-// Every post page picks this up automatically on the next build —
-// you never need to touch the template or individual post files for this.
-const CUSDIS_APP_ID = "46ea00f6-300b-4803-8a7d-63e2c2d0d5b9";
-
 // ---------- helpers ----------
 
 function slugFromFilename(filename) {
@@ -134,6 +128,7 @@ function buildPostPages(posts) {
     const html = template
       .replaceAll("{{TITLE}}", post.title)
       .replaceAll("{{DEK}}", post.dek)
+      .replaceAll("{{DESCRIPTION}}", post.dek)
       .replaceAll("{{DATE_ISO}}", post.date)
       .replaceAll("{{DATE_DISPLAY}}", formatDate(post.date))
       .replaceAll("{{TAG}}", post.tag)
