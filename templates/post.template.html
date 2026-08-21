@@ -60,82 +60,36 @@
     </a>
   </nav>
 
-  <section class="comments wrap" id="comments">
-    <h2 class="comments__heading">Thoughts?</h2>
-    <div
-      id="cusdis_thread"
-      data-host="https://cusdis.com"
-      data-app-id="{{CUSDIS_APP_ID}}"
-      data-page-id="{{SLUG}}"
-      data-page-title="{{TITLE}}"
-      data-theme="dark"
-    ></div>
-    <script>
-      // Cusdis needs the live URL of this exact page, which we can only
-      // know in the browser — so we set it here before the widget loads.
-      document.getElementById("cusdis_thread")
-        .setAttribute("data-page-url", window.location.href);
+  <!-- Comments Section -->
+  <section class="comments-section">
+    <h3 class="comments-title">Thoughts?</h3>
+  
+    <!-- Comment Submission Form -->
+    <form id="comment-form" class="comment-form">
+      <div class="form-row">
+        <input type="text" id="comment-name" placeholder="Your name *" required maxlength="50">
+        <input type="email" id="comment-email" placeholder="Your email (optional)" maxlength="100">
+      </div>
+      <textarea id="comment-body" placeholder="Join the discussion..." rows="4" required maxlength="1000"></textarea>
+      <button type="submit" id="comment-submit-btn">Post Comment</button>
+      <p id="comment-status" class="comment-status" aria-live="polite"></p>
+    </form>
+  
+    <!-- Rendered Comments List -->
+    <div id="comments-list" class="comments-list">
+      <p class="loading-state">Loading comments...</p>
+    </div>
+  </section>
 
-      // Cusdis renders its form inside an iframe it fully controls, so our
-      // site CSS can't reach it normally. But that iframe is built with
-      // srcdoc (its HTML is handed in as a string, not fetched from a
-      // separate page), which means we can catch it the moment it's
-      // created and splice our own <style> into it before it renders.
-      // This is unofficial — if Cusdis changes their internal markup,
-      // this may need updating.
-      (function () {
-        var target = document.getElementById("cusdis_thread");
-        var applied = false;
-        var observer = new MutationObserver(function () {
-          if (applied) return;
-          var iframe = target.querySelector("iframe");
-          if (!iframe) return;
-          applied = true;
-          var css = [
-            "html, body { background: transparent !important; }",
-            "body {",
-            "  padding: 1rem !important;",
-            "  font-family: 'Work Sans', sans-serif !important;",
-            "}",
-            "div, section, form { background: transparent !important; }",
-            "input, textarea {",
-            "  background: #14110d !important;",
-            "  border: 1px solid #332c22 !important;",
-            "  border-radius: 2px !important;",
-            "  color: #f2e9db !important;",
-            "  font-family: 'Work Sans', sans-serif !important;",
-            "  width: 100% !important;",
-            "  box-sizing: border-box !important;",
-            "}",
-            "input::placeholder, textarea::placeholder { color: #6f6555 !important; }",
-            "label {",
-            "  color: #a89984 !important;",
-            "  font-family: 'Work Sans', sans-serif !important;",
-            "  display: block !important;",
-            "  margin-bottom: 0.4rem !important;",
-            "}",
-            "button {",
-            "  background: transparent !important;",
-            "  border: 1px solid #cf6a3a !important;",
-            "  color: #e8b088 !important;",
-            "  border-radius: 2px !important;",
-            "  font-family: 'JetBrains Mono', monospace !important;",
-            "  text-transform: uppercase !important;",
-            "  letter-spacing: 0.08em !important;",
-            "}",
-            "button:hover { background: #cf6a3a !important; color: #14110d !important; }",
-            "a { color: #cf6a3a !important; }",
-            "@media (max-width: 480px) {",
-            "  div[class*='grid'] { display: block !important; }",
-            "  div[class*='grid'] > * { width: 100% !important; margin-bottom: 0.75rem !important; }",
-            "}"
-          ].join("\n");
-          iframe.srcdoc = iframe.srcdoc.replace("</style>", css + "</style>");
-        });
-        observer.observe(target, { childList: true, subtree: true });
-      })();
-    </script>
-    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<!-- Supabase CDN and Client Initialization -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  const SUPABASE_URL = 'https://edmcwxrslvpebvsjzjqi.supabase.co';
+  const SUPABASE_ANON_KEY = 'sb_publishable_ncjy8aj1PJeOT4Bt8DCPqQ_T_gMNy17';
+  const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+</script>
+<script src="js/comments.js"></script>
+
   </section>
 </main>
 
