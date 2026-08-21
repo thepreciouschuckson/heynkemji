@@ -1,0 +1,164 @@
+---
+title: The Trip That Never Ended (And the One That Did)
+date: 2026-08-21
+tag: Life
+dek: Adapting is what I do, but just how many times do I have to keep doing it? 
+readtime: 10 min read
+---
+For the most part of my teenage into adult life, I've always nursed this desire to return to Ghana.
+
+## Accra Was All I Knew
+
+When I was five, my parents moved my siblings and me to Ghana. We went on to live there for the next 11 years. My whole childhood was formed in Ghana. My early primary into Junior High School was done in Ghana. Ghana was all I knew; I knew nothing about being a Nigerian—except the slur 'anago' that was used to refer to a Nigerian by Ghanaians.
+
+Ghana was a good 'breeding ground' for me. Better education as compared to Nigeria by far—even though I only came to know that when I returned to Nigeria 11 years after my parents 'fled' Nigeria.
+
+I loved the language, the food, my friends. Funny, I even loved the accent. I was practically a Ghanaian. I learned the languages so fast. I did so well that I topped my class in the native languages taught in school. Lol, the natives in my class hated me for it.
+
+## Turbulent Waters & Growing Up Fast
+
+There were so many ups and downs for my family. Many turbulent times, and that's putting it mildly. It doesn't help that after a couple of years, my father left us and returned to Nigeria, leaving six children with my mother. A woman with no formal education and no solid, safe means of income. Yes, she applied herself so much, pursuing so many endeavours to make ends meet for her six children left to her by her husband.
+
+That affected me in no small way—remember, all my siblings were moved to Ghana so it wasn't just me, but for the sake of this piece, well, I can only speak for myself. I had to live with a few people at different times to lighten the load on my mom. I wasn't sent away, but when the opportunities presented themselves, well, we took them; if only we knew that wasn't always going to be the best call.
+
+Anyway, moving on. All those ups and downs aside, Ghana still formed the core of my life. And growing up, this beautiful, peaceful country that always had electricity—yes, Nigeria catch your sub—slowly cemented its place into my heart. I knew I'd always be a Ghanaian.
+
+## The "Trip" That Never Ended
+
+Fast forward to 2015/2016, my life in Ghana ended. Abruptly. Coldly.
+
+I had just finished junior high school and was awaiting my posting to high school—unlike Nigeria where you write 'Junior WAEC' then automatically move to the high school of your choice as long as you pass, Ghana handled the transition from JHS to SHS like your regular move to university—and I was looking forward to finally going to a boarding school. During that period, my paternal grandmother died. At the time, my older siblings had somehow made their way back to Nigeria at different times, for different reasons.
+
+Since I was out of school, my mom felt it wouldn't be a bad idea to have me come with her down to Nigeria. That sounded good to me, I even looked forward to it enthusiastically; not the enthusiasm of 'going home' but more of travelling, and also experiencing this new thing 'cause remember, I basically grew up in Ghana and had no real experience or memories of being in Nigeria in the first five years of my life.
+
+So, I bit. I went with my mom. I didn't get the chance to see my friends for the 'last' time, which at the time I didn't know would be a last time honestly.
+
+Being in Nigeria was...jarring at first. We went by road, my mom and I. We were to go to my aunt's in Lagos and proceed to the village from there.
+
+I remember the bike ride to my aunt's when we arrived in Lagos. I remember feeling super scared; that was my first time on an 'okada' and I just couldn't make sense of how a vehicle balanced on two tires. This wasn't a familiar means of transport in Ghana. Didn't help that the 'bike man' sped through the streets so fast. Lord, the way I clutched him from behind. I could swear that I would go flying if I let him go for even a sec.
+
+Well, we got to my aunt's. I don't really remember much from staying there, but I remember some snippets of being in the village with my older siblings.
+
+I like to put it this way: my dad took one look at his children and realized we had grown and decided to have us back. 'Cause that's exactly what happened, just like that we were 'back.'
+
+What do you mean *I wasn't going to be returning to Ghana?* What do you mean *this is it?!*
+
+I was pained. I felt deceived, this was never the plan. It was supposed to be a trip, a visit, and then I return to my home. My home! Ghana! I felt cheated. I never got to say goodbye. Only my mom returned to bring the rest of our stuff and my younger siblings. That was never the plan. I wished I never went with her.
+
+## Adapting, 'Cause That's What I Do
+
+Fast forward to after the burial, we had settled in Abuja where my dad lived. I was put in some government school. I hated it. All of it. The school was dilapidated. The students were dull. The teachers were, well, mostly corpers. There was no competition. I was being taught stuff I had learned in junior high in SHS!
+
+I hated everything and everyone. I was mad at the students for mocking my accents. And I stayed mad for a long time.
+
+Did I adapt? Yes. I learnt to use the Nigerian accent, got used to pidgin English which I hated. 
+
+> I adapted because that's what I do. That's what I'm good at. Didn't make me any happier. I missed my friends in Ghana. My people!
+
+Well, fast forward to late 2016, I finally got to switch schools to a much better one—Government Day Secondary School (GDSS Karu). I made new friends while I missed the ones I had in Ghana.
+
+I adapted, 'cause that's what I do.
+
+## 2018: When Everything Changed
+
+Fast forward to 2018 where life changed for me. In that year, I finished SHS. In that year, I got diagnosed with Epilepsy. In that year, I was denied admission into university on my first attempt. In that year, I won a national essay competition—ironically on the topic "I am a Nigerian; Nigeria needs me." In that year, I became disabled, and that began my life living with a chronic illness. In that year, I got my first job.
+
+LOL, Nigeria tested me.
+
+I did great in my SHS. I was a top student, finished as best in so many categories. Finished as the senior girls prefect. Finished an Ambassador, earning the respect of my peers, teachers, and even Principals. If my school had a "Most Likely to Succeed" list, my name would be at the top. And yet, I wrote JAMB exams and was denied admission all four times regardless of my high scores.
+
+I eventually gave up on conventional universities and applied to study Computer Science at National Open University of Nigeria. I hated it. Horrible curriculum, outdated stuff. A big waste of my time, so when I had a health crisis, I dropped out immediately, not looking back.
+
+I tried again, this time rerouting to the arts, rewriting WASSCE again as an art student—at twenty-one—so I could study English, I thought that'd do it for me. Nope, again, health as part of the factors, I dropped out.
+
+All the while, I'd been working, hustling—basically, I was on my own and had to take care of myself even though I still lived at home; not working wasn't an option for me.
+
+In 2023, I moved out to live with my sister in Jahi, Abuja. By the end of the year in November, I moved out to my own place, my first rented apartment. Mine. My father kicked against it, but by the time I was telling him, I'd already paid my rent. There was no stopping me.
+
+## Making the Jump
+
+End of 2024, in December, I moved to Ghana. Now it wasn't sudden.
+
+I'd been talking about at least visiting Ghana for years. Even I didn't know when that was going to happen. But in 2024, it happened. My childhood friend, Kwame, would talk about it a lot with me and next thing we knew we were checking the cost of plane tickets.
+
+My parents, my siblings all felt like I was doing too much, lol. My health was a talking point for them as well. How was I going to handle being alone in a country with my health issues? Well, let's just say I had thought that through and my mind was made up.
+
+My older siblings fussed that I didn't tell them ahead of time properly before making this 'big decision.' At that point, trust me, I was used to being told "you think you know everything." For years, mind you. Everyone just seemed to think they had better opinions of my life than I did.
+
+Of course, I didn't listen. I went.
+
+A day after my sister's wedding, December 8, I boarded a plane to Ghana. Finally. I did it. I freaking did it!
+
+I think this did something to my family, to my siblings. All of a sudden, this thing that was always an "I wish..." was possible. She did it.
+
+I was exhilarated.
+
+## The Reality of "Home Alone"
+
+Now, this part hurts me to write, but let's sit with it for a bit.
+
+Kwame, my childhood friend, was more than helpful in getting me settled in. I stayed at his place for two weeks while I searched for my own place. My guy, Brian, also lent a hand. All of these made it a soft landing for me.
+
+The plan was to relocate. Fully. The plan was to at least live there for a year, then decide after that if I wanted to remain there. But plans changed.
+
+Ghana was good. Just being back. Being surrounded by the people and the language and the food. I got my place, loved it. Mine. Mine.
+
+> It felt like home. But I was home alone. 
+
+I was ready to deal with my health issues alone. It's not like I'd had so much company with that while in Nigeria anyway. But it was harder than I thought.
+
+I don't have a lot of friends in Nigeria, but the few I did were there in one way or another, even if we didn't always keep in touch. I didn't realize how much of a support system I had, even if I didn't really engage with them all the time. The fact that they were there, accessible, I didn't realize how much better that made everything, even if in the slightest.
+
+I felt alone in Ghana, and that was surprising to even me. I mean, I had Kwame. I hadn't fully reconnected with Seyram, heck, I only got to see her twice. This beautiful sweet lady who shared friendship with me like I hadn't experienced before. She was one person I looked forward to reconnecting with the most.
+
+But here was I, mostly holed up in my room, alone. I made a friend at a book club thingy, Jess. She was good to me. I won't forget the day she brought me out of the house, took me for ice cream and hugs because I felt down that day. She was a real one. Free-spirited, like me.
+
+## Cracks in the Pavement
+
+I flared up a lot, my antidepressant and antipsychotic seemed to stop working. I couldn't get an appointment with a neurologist. I didn't realize the privilege I enjoyed in Nigeria being able to see my neurologist whenever I wanted. Appointments in Ghana could take two months or more. That posed a big problem.
+
+I returned to Nigeria at one time on a "work trip" and used the opportunity to see my psychiatrist. He strongly advised that I do not return to Ghana. I did anyway.
+
+Depression hit. I had my head in a bottle a lot. I tried other things. I did things.
+
+I enjoyed some of them, other times not quite so much. I remember the beach. I loved being at the beach way into the night... It always felt so peaceful at 2am sitting at the beach. LOL, I could never risk that in Nigeria.
+
+Kwame was always there. Always.
+
+I danced a lot. I resumed dancing in my room. I cooked well. I ate the best I had in a long time while in Ghana.
+
+Ghana was good to me, but was I ready for it? Was I ready to be back?
+
+## Why Go? Why Stay? Why Leave?
+
+People ask me why I went to Ghana. They expected some grand purpose. The truth? There was none. Yeah, I looked forward to any opportunities my homeland held, but truly, why did I return to Ghana? Because I wanted to. Period. I just wanted to be there again.
+
+Did I hope for more to come from it? Absolutely. Did I enjoy my time there, yes and no.
+
+Would I do it again? Without a doubt.
+
+What would be different? I would be ready.
+
+So, why did I return to Nigeria?
+
+Well, let's just say a number of factors finally made me do it. The medical situation being top of the list. It was risky being there and not having ready access to a doctor, and at that time, I really needed that. I don't think my health was stable enough for the move, fuck that. But I could have braved it. I would have adapted. Risky? Yes, but...
+
+Ghana isn't cheap, LOL, but I could have braved it. I would have survived. I lost my job, and getting another was just difficult. But I would have survived. I did it all the time in Nigeria. The difference, if I'm being honest, is being in familiar terrain made that relatively easy.
+
+I started school, unfortunately not in Ghana. Why was I only finding this option and deciding to go with it? Finally a university in Nigeria I could attend. It's an open university, but was I ready to pay $200 every semester for exams? I couldn't afford that. And I was finally ready to do this school thing. It was worth it. So, I chose Miva Open University to get my BSc in Mass Comm and Media Studies.
+
+Mentally, was I doing okay? Not totally, I could have adapted...eventually...but then, I wasn't safe with myself anymore. So, that topped up the reasons.
+
+## No Goodbyes, Just Next Time
+
+And together, all these factors just brought me to the point where I finally booked my flight. Got a refund on my house, bless that landlady's heart, and prepared to head back.
+
+Again, without a proper goodbye to my friends.
+
+I barely have regrets. Best believe whatever I'm doing, I intentionally decided to, whether good or bad, really.
+
+But if there is one thing I regret, it is leaving Ghana, again, prematurely.
+
+What a coward move.
+
+Anyway, next time I up and move countries, this time, I'd be ready.
