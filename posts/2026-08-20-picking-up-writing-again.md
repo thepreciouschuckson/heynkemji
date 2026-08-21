@@ -3,7 +3,7 @@ title: Picking up Writing Again
 date: 2026-08-19
 tag: Life
 dek: To doing this again, for the love of the game, kanpai! 🍻
-readtime: 1 min read
+readtime: 2 min read
 ---
 It's been so long since I actually felt like a writer. I was great at writing short stories, and poems, and articles. I was great with words. I looked forward to writing a novel. I've written an award-winning short story and an essay that came out the best in a national writing competition.
 

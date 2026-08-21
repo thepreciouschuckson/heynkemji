@@ -3,7 +3,7 @@ title: My Unusual Path into Product Management
 date: 2026-08-20
 tag: Product
 dek: And finally, I moved from 'I am pivoting' to 'I have pivoted' to Product Managemnet. 
-readtime: 6 min read
+readtime: 10 min read
 ---
 ## My career origin story. Or is it?
 
