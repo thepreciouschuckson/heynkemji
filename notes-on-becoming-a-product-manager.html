@@ -184,7 +184,7 @@
 <script>
   const SUPABASE_URL = 'https://edmcwxrslvpebvsjzjqi.supabase.co';
   const SUPABASE_ANON_KEY = 'sb_publishable_ncjy8aj1PJeOT4Bt8DCPqQ_T_gMNy17';
-  const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  window.supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 </script>
 <script src="js/comments.js"></script>
 
