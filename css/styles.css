@@ -236,6 +236,13 @@ body::before {
 }
 .entry__read::after { content: " →"; }
 
+.entries__more {
+  text-align: center;
+  padding-top: 2.25rem;
+  margin-top: 0.5rem;
+  border-top: 1px solid var(--line);
+}
+
 @media (max-width: 640px) {
   .entry { grid-template-columns: 1fr; gap: 0.6rem; }
   .entry__meta { display: flex; align-items: center; gap: 1rem; }

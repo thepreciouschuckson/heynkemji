@@ -26,6 +26,8 @@ const INDEX_PATH = path.join(ROOT, "index.html");
 const ARCHIVE_PATH = path.join(ROOT, "archive.html");
 
 const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const HOMEPAGE_POST_LIMIT = 4; // how many posts show on the homepage before "Read more"
+
 
 // ---------- helpers ----------
 
@@ -102,7 +104,10 @@ function loadPosts() {
     .readdirSync(POSTS_DIR)
     .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
     .map(parsePost)
-    .sort((a, b) => (a.date < b.date ? 1 : -1)); // newest first
+    .sort((a, b) => {
+      if (a.draft !== b.draft) return a.draft ? -1 : 1; // drafts always first
+      return a.date < b.date ? 1 : -1; // then newest first
+    });
 }
 
 function replaceBlock(fileContents, literalStart, literalEnd, newInner) {
@@ -172,7 +177,16 @@ function entryHTML(post) {
 }
 
 function buildIndex(posts) {
-  const inner = posts.map(entryHTML).join("\n\n");
+  const shown = posts.slice(0, HOMEPAGE_POST_LIMIT);
+  const hasMore = posts.length > HOMEPAGE_POST_LIMIT;
+
+  let inner = shown.map(entryHTML).join("\n\n");
+  if (hasMore) {
+    inner += `\n\n    <div class="entries__more">
+      <a class="btn" href="archive.html">Read more in the archive →</a>
+    </div>`;
+  }
+
   const contents = fs.readFileSync(INDEX_PATH, "utf8");
   fs.writeFileSync(INDEX_PATH, replaceBlock(contents, "<!-- ENTRIES:START -->", "<!-- ENTRIES:END -->", inner));
   console.log("  updated index.html");
