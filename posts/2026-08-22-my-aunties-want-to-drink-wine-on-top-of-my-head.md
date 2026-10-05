@@ -2,7 +2,7 @@
 title: My Aunties Want to Drink Wine on My Head, so I Sent Them a Bottle
 date: 2026-08-22
 tag: Life
-dek: I am only 26, and yet my aunties seem to believe my "marriage" star is dimming. 
+dek: I am only 26, and yet my aunties seem to believe my "marriage star" is dimming. 
 readtime: 5 min read
 ---
 *"You know, as a woman, no matter the wealth you amass or the educational heights you get to, without a man, you will never be complete."*
